@@ -34,6 +34,10 @@ color: lightblue;
   font-size: 25px;
 }
 
+#contacts {
+  font-size: small;
+}
+
 #quote {
   margin: 5px;
   padding: 5px;
@@ -67,8 +71,8 @@ a {
 .btn {
   display: block;
   color: black;
-  padding: 20px;
-  margin: 15px;
+  padding: 10px;
+  margin: 10px;
   background-color: white;
   box-shadow: 10px 10px lightblue;
 }
